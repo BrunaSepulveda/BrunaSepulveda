@@ -1,6 +1,6 @@
 <h1 align="center">Oi! Eu sou a Bruna Sepúlveda</h1>
 <h3 align="center">Sou uma pessoa dinâmica em processo de aprendizado de em tecnologia e desenvolvimento de software.
-  Gosto de aprender e evoluir.Busco oportunidade de melhorar e aprofundar minhas habilidades</h3>
+  Gosto de aprender e evoluir. Busco oportunidade de melhorar e aprofundar minhas habilidades</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brunasepulveda&label=Profile%20views&color=0e75b6&style=flat" alt="brunasepulveda" /> </p>
 
