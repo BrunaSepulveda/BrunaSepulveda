@@ -7,8 +7,8 @@
 
 <p align="left">
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/brunasepulveda/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/brunasepulveda/"/></a>
-<a href="https://instagram.com/@bruhnasg" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@bruhnasg"/></a>
+<a href="https://www.linkedin.com/in/brunasepulveda/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/brunasepulveda/"/></a>
+<a href="https://www.instagram.com/bruhnasg/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@bruhnasg"/></a>
 </p>
 
 <h3>Linguagens e ferramentas:</h3>
