@@ -1,6 +1,6 @@
 <h2 align="left"> Oi! Eu sou a Bruna Sepúlveda </h2>
 <p align="left">
-:pushpin: Eu sou do Piauí, vivo em São Paulo, estudo desenvolvimento web full-stack na Trybe.Vejo que a área que eu escolhi estudar é voltada para soluções de problemas de forma a gerar valor. Hoje estudo em uma instituição que eu acredito que tem compromisso com o aprendizado e onde eu conquistei certificado de frontend! Sou  formada em Moda, e tambem tenho duas gatas que são a alegria e a pertubação da minha vida!
+:pushpin: Eu sou do Piauí, vivo em São Paulo, estudo desenvolvimento web full-stack na Trybe.Vejo que a área que eu escolhi estudar é voltada para soluções de problemas de forma a gerar valor. Hoje estudo em uma instituição que eu acredito que tem compromisso com o aprendizado e onde eu conquistei certificado de frontend! Sou  formada em Moda, e também tenho duas gatas que são a alegria e a perturbação da minha vida!
 </p>
 <img align="right" width="300" src="https://media2.giphy.com/media/u7D5EyS2EFlpC/giphy.webp?cid=ecf05e47tc0agjngty8r6xpxipjacdi9hdi25hiu4ho1k7n5&rid=giphy.webp&ct=g" />
 
