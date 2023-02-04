@@ -28,6 +28,3 @@
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunasepulveda&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunasepulveda&theme=tokyonight)
-
-
