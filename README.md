@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/bruhnasg/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@bruhnasg"/></a>
 </p>
 
-<h3>Linguagens e ferramentas:</h3>
+<h3>Linguagens e ferramentas que trabalho hoje:</h3>
 <p>
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" src="https://img.shields.io/badge/Typescript-1572B6?style=for-the-badge&logo=typescript&logoColor=white"/>
