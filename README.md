@@ -1,6 +1,6 @@
 <h2 align="left"> Oi! Eu sou a Bruna Sepúlveda </h2>
 <p align="left">
-:pushpin: Eu sou do Piauí, vivo em São Paulo, hoje sou desenvolvedora full-stack na Omega Energia! Me dediquei um ano de estudo na Trybe. Uma instituição que eu acredito que tem compromisso com o aprendizado!
+:pushpin: Eu sou do Piauí, vivo em São Paulo, hoje sou desenvolvedora full-stack na Serena! Me dediquei um ano de estudo na Trybe. Uma instituição que eu acredito que tem compromisso com o aprendizado!
 </p>
 <img align="right" width="300" src="https://media2.giphy.com/media/u7D5EyS2EFlpC/giphy.webp?cid=ecf05e47tc0agjngty8r6xpxipjacdi9hdi25hiu4ho1k7n5&rid=giphy.webp&ct=g" />
 
