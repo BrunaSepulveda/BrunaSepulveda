@@ -49,4 +49,10 @@
 </p>
 <h3>📊 Estatísticas GitHub:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunasepulveda&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasepulveda&layout=compact&theme=tokyonight" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunaSepulveda&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+
+![Snake animation](https://github.com/BrunaSepulveda/BrunaSepulveda/blob/output/github-contribution-grid-snake.svg)
