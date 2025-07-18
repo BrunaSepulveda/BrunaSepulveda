@@ -45,11 +45,10 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 <a href="mailto:sepulvedabruna@gmail.com?"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/brunasepulveda/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/brunasepulveda/"/></a>
-<a href="https://www.instagram.com/bruhnasg/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@bruhnasg"/></a>
 </p>
 <h3>📊 Estatísticas GitHub:</h3>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasepulveda&layout=compact&theme=tokyonight" alt="Top Langs"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunaSepulveda&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrunaSepulveda&show_icons=true&theme=tokyonight&locale=pt-br&title_color=ffffff&text_color=ffffff" alt="Estatísticas GitHub"/>
 </p>
